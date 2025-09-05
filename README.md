@@ -1,13 +1,13 @@
-# 🎮 **Hangman Game**
+## 🎮 **Hangman Game**
 
 
-# 📌 **About**
+### 📌 **About**
 
 
 This is a beginner-friendly Hangman game made in Python. The game randomly chooses a word from a small list, and you have to guess it by entering one letter at a time.
 
 
-# 🕹️ **How to Play**
+### 🕹️ **How to Play**
 
 
 1. The word is hidden with underscores (_).
@@ -20,7 +20,7 @@ This is a beginner-friendly Hangman game made in Python. The game randomly choos
 
 5. Win if you guess the word before chances run out.
 
-# 🚀 **Run the Game**
+### 🚀 **Run the Game**
 
 1. Save the file as hangman.py.
 
